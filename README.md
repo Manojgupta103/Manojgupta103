@@ -42,6 +42,7 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Manojgupta103&show_icons=true&theme=radical" />
+  <img class="img" src="[https://github-readme-stats.vercel.app/api?username=Manojgupta103](https://streak-stats.demolab.com?user=Manojgupta103&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" />
 </div>
 
