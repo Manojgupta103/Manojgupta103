@@ -45,9 +45,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Manojgupta103&show_icons=true&theme=radical" />
-<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Manojgupta103&theme=dark&background=000000"/> 
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Manojgupta103&show_icons=true&theme=radical" /> <br></br>
+<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Manojgupta103&theme=dark&background=000000"/> <br></br>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" /> <br></br>
 </div>
 
 ###
