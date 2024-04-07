@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -12,6 +10,9 @@
 
 ###
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/qgQUggAC3Pfv687qPC)" width="100"/>
+</div>
 <p align="left">I'm Manoj Gupta from Mumbai<br><br>A passionate frontend developer from India. I am 20 year old, Cyber Security Engineering student studying at Shah and Anchor Kutchhi Engineering College. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.<br><br><br>- 🔭 I’m working as Full Stack Developer Intern<br>- 📚 I'm currently learning React and Ethical Hacking</p>
 
 ###
