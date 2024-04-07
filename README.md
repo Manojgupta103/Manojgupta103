@@ -46,8 +46,8 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Manojgupta103&show_icons=true&theme=radical" />
-[![GitHub Streak](https://streak-stats.demolab.com/?Manojgupta103)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manojgupta103&theme=dark&background=000000)](https://git.io/streak-stats)
+<img class="img" src="https://streak-stats.demolab.com/?Manojgupta103"/>
+<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Manojgupta103&theme=dark&background=000000"/> 
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" />
 </div>
 
