@@ -40,6 +40,11 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Manojgupta103&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" />
+</div>
+
 ###
 
 <div align="left">
