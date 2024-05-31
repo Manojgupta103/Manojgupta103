@@ -38,9 +38,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
-<img src="https://raw.githubusercontent.com/manojgupta103/output/snake.svg" alt="Snake animation" />
+
 
 ###
+<img src="https://raw.githubusercontent.com/manojgupta103/output/snake.svg" alt="Snake animation" />
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
