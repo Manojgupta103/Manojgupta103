@@ -49,8 +49,9 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" /> <br></br>
 </div>
 ###
-[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manojgupta103&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/manojgupta103/manojgupta103/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 <div align="left">
