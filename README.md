@@ -48,9 +48,8 @@
 <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Manojgupta103&theme=dark&background=000000"/> <br></br>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" /> <br></br>
 </div>
-###
-<img src="https://raw.githubusercontent.com/manojgupta103/manojgupta103/output/snake.svg" alt="Snake animation" />
 
+<img src="https://raw.githubusercontent.com/manojgupta103/manojgupta103/output/snake.svg" alt="Snake animation" />
 ###
 ###
 
