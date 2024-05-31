@@ -40,10 +40,6 @@
 </div>
 
 
-###
-<img src="https://raw.githubusercontent.com/manojgupta103/output/snake.svg" alt="Snake animation" />
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 <div style="display: flex; flex-direction: row;">
