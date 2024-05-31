@@ -38,7 +38,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+<img src="https://raw.githubusercontent.com/manojgupta103/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -49,8 +51,7 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" /> <br></br>
 </div>
 
-<img src="https://raw.githubusercontent.com/manojgupta103/manojgupta103/output/snake.svg" alt="Snake animation" />
-###
+
 ###
 
 <div align="left">
