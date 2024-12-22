@@ -45,10 +45,7 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Manojgupta103&show_icons=true&theme=radical" /> <br></br>
-<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Manojgupta103&theme=dark&background=000000"/> <br></br>
- <img src="https://streak-stats.demolab.com?user=Manojgupta103&theme=dark" alt="GitHub Streak" /> <br></br>
-<img src="https://gitHub-readme-streak-stats.herokuapp.com/?user=Manojgupta103&theme=dark" alt="GitHub Streak" /> <br></br>
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" /> <br></br>
+<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Manojgupta103&theme=dark&background=000000"/> <br></br> src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" /> <br></br>
 </div>
 
 ###
