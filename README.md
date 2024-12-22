@@ -9,7 +9,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm Manoj Gupta from Mumbai<br><br>A passionate frontend developer from India. I am 21 year old, Cyber Security Engineering student studying at Shah and Anchor Kutchhi Engineering College. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.<br><br><br>- 🔭 I’m working as Full Stack Developer Intern<br>- 📚 I'm currently learning React and Ethical Hacking</p>
+<p align="left">I'm Manoj Gupta from Mumbai<br><br>A passionate frontend developer from India. I am 21 year old, Cyber Security Engineering student studying at Shah and Anchor Kutchhi Engineering College. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.<br><br><br>- 🔭 I’m working as Soc Analyst intern<br>- 📚 I'm currently learning React and Ethical Hacking</p>
 
 ###
 
