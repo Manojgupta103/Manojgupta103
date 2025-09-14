@@ -46,6 +46,17 @@
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Manojgupta103&show_icons=true&theme=radical" /> <br></br>
 <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Manojgupta103&theme=dark&background=000000"/> <br></br>
+
+<h2 align='center'><i><a href="https://github.com/Manojgupta103/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Manojgupta103/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojgupta103&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Manojgupta103/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojgupta103&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgupta103&theme=radical&layout=compact" /> <br></br>
 </div>
 
